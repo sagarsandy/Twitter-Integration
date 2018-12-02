@@ -39,7 +39,7 @@ class ViewController: UIViewController {
                 
                 debugPrint(session.userName)
             } else {
-                print("somethif went wrong")
+                print("something went wrong")
             }
         }
     }
